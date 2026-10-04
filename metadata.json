@@ -1,0 +1,6 @@
+{
+  "name": "Sur Sangam - Nepali Devotional Folk-Pop Studio",
+  "description": "Upbeat Nepali devotional folk-pop fusion studio featuring madal rhythms, harmonium melodies, acoustic rhythm guitar, and bansuri flute with Lyria 3 AI music generation and vocal mix mastering.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
